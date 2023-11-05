@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "image_swiper": "    ../../../../../../src/assets/Barcelona.jpg",
+    "alt_swiper": "Barcelona",
+    "place": "Barcelona"
+  },
+
+  {
+    "id": "2",
+    "image_swiper": "    ../../../../../../src/assets/Italy.jpg",
+    "alt_swiper": "Italy",
+    "place": "Italy"
+  },
+
+  {
+    "id": "3",
+    "image_swiper": "    ../../../../../../src/assets/NewYork.jpg",
+    "alt_swiper": "New York",
+    "place": "New York"
+  }
+]

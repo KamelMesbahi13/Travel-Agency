@@ -1,0 +1,33 @@
+.swiper-button-prev,
+.swiper-button-next {
+  top: 10%;
+  display: none;
+}
+
+.swiper-button-prev {
+  left: 65%;
+}
+
+@media (min-width: 768px) {
+  .swiper-button-prev {
+    left: 80%;
+  }
+
+  .swiper-button-prev,
+  .swiper-button-next {
+    top: 20%;
+    display: block;
+  }
+}
+
+@media (min-width: 1024px) {
+  .swiper-button-prev {
+    left: 90%;
+  }
+
+  .swiper-button-prev,
+  .swiper-button-next {
+    top: 20%;
+    display: block;
+  }
+}

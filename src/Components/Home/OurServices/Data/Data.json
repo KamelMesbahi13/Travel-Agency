@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "image": "../../src/assets/Austria.jpg",
+    "alt": "Austria",
+    "title": "A Weekend Guide to Austria",
+    "sub_title": "TOURIST TOUR"
+  },
+
+  {
+    "id": "2",
+    "image": "../../src/assets/Climbing.jpg",
+    "alt": "Climbing",
+    "title": "The Top Climbing Tours",
+    "sub_title": "TOURIST TOUR"
+  },
+
+  {
+    "id": "3",
+    "image": "../../src/assets/Montagne.jpg",
+    "alt": "Montaigne",
+    "title": "The Complete Travel Guide 😍",
+    "sub_title": "TOURIST TOUR"
+  },
+
+  {
+    "id": "4",
+    "image": "../../src/assets/WomanTravling.jpg",
+    "alt": "WomanTravling",
+    "title": "A Guide To Best Markets",
+    "sub_title": "TOURIST TOUR"
+  }
+]

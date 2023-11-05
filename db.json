@@ -1,0 +1,404 @@
+{
+  "popularTours": [
+    {
+      "id": 1,
+      "Img": "./src/assets/Africa.jpg",
+      "Alt": "Africa",
+      "Tours": 3,
+      "Location_Name": "Africa",
+      "Locations": {
+        "Destination_One": "Algeria",
+        "Destination_Two": "Nigeria",
+        "Destination_Three": "South Africa",
+        "Destination_Four": "Tanzania",
+        "Destination_Five": "Egypt"
+      }
+    },
+
+    {
+      "id": 2,
+      "Img": "./src/assets/Asia.jpg",
+      "Alt": "Asia",
+      "Tours": 5,
+      "Location_Name": "Asia",
+      "Locations": {
+        "Destination_One": "Nepal",
+        "Destination_Two": "South Korea",
+        "Destination_Three": "Japan",
+        "Destination_Four": "Cambodia",
+        "Destination_Five": "Thailand"
+      }
+    },
+
+    {
+      "id": 3,
+      "Img": "./src/assets/Europe.jpg",
+      "Alt": "Europe",
+      "Tours": 2,
+      "Location_Name": "Europe",
+      "Locations": {
+        "Destination_One": "Italy",
+        "Destination_Two": "Spain",
+        "Destination_Three": "Greece",
+        "Destination_Four": "Paris"
+      }
+    },
+
+    {
+      "id": 4,
+      "Img": "./src/assets/NorthAmerica.jpg",
+      "Alt": "North America",
+      "Tours": 4,
+      "Location_Name": "North America",
+      "Locations": {
+        "Destination_One": "New York",
+        "Destination_Two": "Hawaii",
+        "Destination_Three": "Mexico",
+        "Destination_Four": "San Francisco"
+      }
+    },
+
+    {
+      "id": 5,
+      "Img": "./src/assets/SouthAmerica.jpg",
+      "Alt": "South America",
+      "Tours": 3,
+      "Location_Name": "South America",
+      "Locations": {
+        "Destination_One": "Colombia",
+        "Destination_Two": "Argentina",
+        "Destination_Three": "Brazil",
+        "Destination_Four": "Chilli",
+        "Destination_Five": "Bolivia"
+      }
+    }
+  ],
+
+  "whyUs": [
+    {
+      "id": 1,
+      "Img": "./src/assets/Award.png",
+      "Alt": "Award",
+      "Title": "Award winning support",
+      "Paragraph": "New price? New plan? No problem. We’re here to help, 24/7."
+    },
+
+    {
+      "id": 2,
+      "Img": "./src/assets/Fun.png",
+      "Alt": "Fun",
+      "Title": "Memorable experiences",
+      "Paragraph": "Browse and book tours and activities so incredible, you’ll want to tell your friends."
+    },
+
+    {
+      "id": 3,
+      "Img": "./src/assets/Payment.png",
+      "Alt": "Payment",
+      "Title": "Ultimate flexibility",
+      "Paragraph": "You’re in control, with free cancellation and payment options to satisfy any plan or budget."
+    },
+
+    {
+      "id": 4,
+      "Img": "./src/assets/Quality.png",
+      "Alt": "Quality",
+      "Title": "Quality at our core",
+      "Paragraph": "High quality standards. Millions of reviews. A Tripadvisor company."
+    }
+  ],
+
+  "testimonial": [
+    {
+      "id": 1,
+      "Img_stars": "./src/assets/Rating.png",
+      "Alt_stars": "Stars",
+      "Title": "Great day out..",
+      "Paragraph": "We were a large group of people and had a great tour with Sebastian, he was very accommodating and friendly, made sure we had everything and...",
+      "Img_person": "./src/assets/TestiThree.jpg",
+      "Alt_person": "Lauren S.",
+      "Person_name": "Lauren S.",
+      "Date_place": "Bangkok, June 2023"
+    },
+
+    {
+      "id": 2,
+      "Img_stars": "./src/assets/Rating.png",
+      "Alt_stars": "Stars",
+      "Title": "Great experience",
+      "Paragraph": "It was one of the best decisions to book Ceren. She took me through Istanbul, we tasted amazing food and coffee. We had such a good time together...",
+      "Img_person": "./src/assets/TestiTwo.jpg",
+      "Alt_person": "Jeanne A.",
+      "Person_name": "Jeanne A.",
+      "Date_place": "Istanbul, June 2023"
+    },
+
+    {
+      "id": 3,
+      "Img_stars": "./src/assets/Rating.png",
+      "Alt_stars": "Stars",
+      "Title": "A great 3 hours with a cool local",
+      "Paragraph": "Our tour with Bexper was just fantastic. We learnt so much about Vietnam history, culture and food, and of course tasted some amazing dishes along the way...",
+      "Img_person": "./src/assets/TestiOne.jpg",
+      "Alt_person": "Rachel L.",
+      "Person_name": "Rachel L.",
+      "Date_place": "Barcelona, May 2023"
+    }
+  ],
+
+  "advice": [
+    {
+      "id": 1,
+      "Img": "./src/assets/AdviceOne.jpg",
+      "Alt": "Advice One",
+      "Subtitle": "Future of Travel",
+      "Title": "The Surfing Man Will Blow Your Mind",
+      "Date": "25 July 2024"
+    },
+
+    {
+      "id": 2,
+      "Img": "./src/assets/AdviceTwo.jpg",
+      "Alt": "Advice Two",
+      "Subtitle": "Family Travel",
+      "Title": "An arts and culture guide to Turin, Italy",
+      "Date": "05 November 2024"
+    },
+
+    {
+      "id": 3,
+      "Img": "./src/assets/AdviceThree.jpg",
+      "Alt": "Advice Three",
+      "Subtitle": "Destinations",
+      "Title": "Pityful a rethoric question ran",
+      "Date": "09 June 2024"
+    },
+
+    {
+      "id": 4,
+      "Img": "./src/assets/AdviceFour.jpg",
+      "Alt": "Advice Four",
+      "Subtitle": "Health & Fitness",
+      "Title": "Europe’s finest and most scenic train journeys",
+      "Date": "01 March 2024"
+    },
+
+    {
+      "id": 5,
+      "Img": "./src/assets/AdviceFive.jpg",
+      "Alt": "Advice Five",
+      "Subtitle": "Creative",
+      "Title": "The 5 best hikes around the world",
+      "Date": "14 July 2024"
+    },
+
+    {
+      "id": 6,
+      "Img": "./src/assets/AdviceSix.jpg",
+      "Alt": "Advice Six",
+      "Subtitle": "Family Travel",
+      "Title": "Pack wisely before traveling",
+      "Date": "03 December 2024"
+    }
+  ],
+
+  "footer": [
+    {
+      "id": 1,
+      "title": "Explore",
+      "sectionOne": "Countries",
+      "sectionTwo": "Cities",
+      "sectionThree": "Regions",
+      "sectionFour": "Inspiration",
+      "sectionFive": "Trending Tours"
+    },
+
+    {
+      "id": 2,
+      "title": "Booking",
+      "sectionOne": "Sign In/Register",
+      "sectionTwo": "Book Now",
+      "sectionThree": "Deals",
+      "sectionFour": "Rentals",
+      "sectionFive": "My Account"
+    },
+
+    {
+      "id": 3,
+      "title": "Company",
+      "sectionOne": "Career",
+      "sectionTwo": "Our Story",
+      "sectionThree": "Partners",
+      "sectionFour": "Press",
+      "sectionFive": "Terms & Condition"
+    },
+
+    {
+      "id": 4,
+      "title": "Support",
+      "sectionOne": "Live Chat",
+      "sectionTwo": "FAQ",
+      "sectionThree": "Report & Issue",
+      "sectionFour": "Contact",
+      "sectionFive": "Trending Tours"
+    },
+
+    {
+      "id": 5,
+      "logo_footer": "./src/assets/Logo-Png.png"
+    }
+  ],
+
+  "offers": [
+    {
+      "id": 1,
+      "Destination": "Italy",
+      "Img": "./src/assets/DestinationItaly.jpeg",
+      "Alt": "Italy",
+      "Num_of_tours": "4 Tours",
+      "Description": "Experience the rich history & landscapes",
+      "price": 429
+    },
+
+    {
+      "id": 2,
+      "Destination": "Greece",
+      "Img": "./src/assets/DestinationGrecce.jpeg",
+      "Alt": "Greece",
+      "Num_of_tours": "2 Tours",
+      "Description": "Experience the ancient history & beaches",
+      "price": 879
+    },
+
+    {
+      "id": 3,
+      "Destination": "Tailend",
+      "Img": "./src/assets/DestinationTailend.jpeg",
+      "Alt": "Tailend",
+      "Num_of_tours": "7 Tours",
+      "Description": "Explore the history and create memories",
+      "price": 499
+    },
+
+    {
+      "id": 4,
+      "Destination": "Miami",
+      "Img": "./src/assets/DestinationMaimi.jpeg",
+      "Alt": "Miami",
+      "Num_of_tours": "4 Tours",
+      "Description": "Here is filled with diverse cultures & cities",
+      "price": 281
+    },
+
+    {
+      "id": 5,
+      "Destination": "Africa",
+      "Img": "./src/assets/DestinationAfrica.jpg",
+      "Alt": "Africa",
+      "Num_of_tours": "5 Tours",
+      "Description": "Embark on a journey for your lifetime",
+      "price": 899
+    },
+
+    {
+      "id": 6,
+      "Destination": "Spain",
+      "Img": "./src/assets/DestinationSpain.jpeg",
+      "Alt": "Spain",
+      "Num_of_tours": "6 Tours",
+      "Description": "The top culture of the Land of the Rising Sun",
+      "price": 987
+    }
+  ],
+
+  "blog": [
+    {
+      "id": 1,
+      "Title": "A Seaside Reset in Laguna Beach",
+      "SubTitle": "HOTEL",
+      "Paragraph": "From the iconic to the unexpected, the city of San Francisco never ceases to surprise. Kick-start your effortlessly delivered Northern California holiday in the cosmopolitan hills of The City . Join your Travel Director and fellow travellers for a Welcome Reception at your hotel.",
+      "Img": "./src/assets/BlogOne.jpg",
+      "Alt": "Blog One",
+      "JournalistPic": "./src/assets/BlogJournaliste.jpg",
+      "Journalist": "BY modtel",
+      "Date": "April 6, 2022 10:20 am "
+    },
+
+    {
+      "id": 2,
+      "Title": "Tiptoe through the Tulips of Washington",
+      "SubTitle": "STAYS",
+      "Paragraph": "2021 will be a Different Skagit Valley Tulip Festival. We know there will be restrictions on the number of people who can visit our fields and gardens (and other retail establishments/restaurants/venues) based on COVID guidelines established by the state and county governments.",
+      "Img": "./src/assets/BlogTwo.jpg",
+      "Alt": "Blog Two",
+      "JournalistPic": "./src/assets/BlogJournaliste.jpg",
+      "Journalist": "BY modtel",
+      "Date": "June 16, 2023 12:22 am "
+    },
+
+    {
+      "id": 3,
+      "Title": "City Spotlight: Philadelphia",
+      "SubTitle": "STAYS",
+      "Paragraph": "This article is part of Earth Refuge’s Spotlight Series on Philadelphia. During the summer of 2021, cities across the United States (‘US’) have seen record breaking temperatures to an extent that scientists say would have been “virtually impossible” to reach without anthropogenic climate change. ",
+      "Img": "./src/assets/BlogThree.jpg",
+      "Alt": "Blog Three",
+      "JournalistPic": "./src/assets/BlogJournaliste.jpg",
+      "Journalist": "BY modtel",
+      "Date": "March 6, 2024 10:20 am "
+    },
+
+    {
+      "id": 4,
+      "Title": "The Castle on the Cliff: Majestic, Magic, Manoir",
+      "SubTitle": "BOOKING",
+      "Paragraph": "Thousands of migrants – of whom, many are children – suffer from deadly heat conditions at the US-Mexico border. As the effects of climate change worsen day by day, extreme weather conditions are causing a high risk of dehydration and death amongst migrants who try to enter the States.",
+      "Img": "./src/assets/BlogFour.jpg",
+      "Alt": "Blog Four",
+      "JournalistPic": "./src/assets/BlogJournaliste.jpg",
+      "Journalist": "BY modtel",
+      "Date": "April 6, 2022 10:20 am "
+    },
+
+    {
+      "id": 5,
+      "Title": "A Seaside Reset in Laguna Beach",
+      "SubTitle": "Hotel",
+      "Paragraph": "From the iconic to the unexpected, the city of San Francisco never ceases to surprise. Kick-start your effortlessly delivered Northern California holiday in the cosmopolitan hills of The City . Join your Travel Director and fellow travellers for a Welcome Reception at your hotel.",
+      "Img": "./src/assets/BlogFive.jpg",
+      "Alt": "Blog Five",
+      "JournalistPic": "./src/assets/BlogJournaliste.jpg",
+      "Journalist": "BY modtel",
+      "Date": "05 November 2024 10:20 am "
+    }
+  ],
+
+  "team": [
+    {
+      "id": 1,
+      "Img": "./src/assets/TeamOne.jpg",
+      "Name": "Jane Doe",
+      "Alt": "Jane Doe",
+      "Job": "President",
+      "Description": "Glavi amet ritnisl libero molestie ante ut fringilla purus eros quis glavrid from dolor amet iquam lorem bibendum"
+    },
+
+    {
+      "id": 2,
+      "Img": "./src/assets/TeamTwo.jpg",
+      "Name": "Jane Doe",
+      "Alt": "Jane Doe",
+      "Job": "Tour Leader",
+      "Description": "Glavi amet ritnisl libero molestie ante ut fringilla purus eros quis glavrid from dolor amet iquam lorem bibendum"
+    },
+
+    {
+      "id": 3,
+      "Img": "./src/assets/TeamThree.jpg",
+      "Name": "Jane Doe",
+      "Alt": "Jane Doe",
+      "Job": "Tour Leader",
+      "Description": "Glavi amet ritnisl libero molestie ante ut fringilla purus eros quis glavrid from dolor amet iquam lorem bibendum"
+    }
+  ]
+}

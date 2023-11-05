@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "Destination": "Italy",
+    "Img": "./../../../../../src/assets/DestinationItaly.jpeg",
+    "Alt": "Italy",
+    "Duration": "3 Days 2 Nights",
+    "Information": "Travel non lorem ac erat suscipit bibendum nulla facilisi. Sedeuter nunc volutpat miss sapien conseyen turpeutionyer masin libero sevenion vusetion viventa augue sit amet hendrerit vestibulum. Duisterione venenatis lacus gravida eros ut turpis interdum ornare.. Interdum et malesu they adamale fames ac anteipsu pimsine faucibus curabitur arcu site feugiat rana volutpat sollicitudin libero. Hotel non lorem acer suscipit bibendum vulla facilisi nedeuter nunc vousa molis sapien velet conseyer turpeutionyer masin libero sempe molis.",
+    "Num_of_tours": "4 Tours",
+    "Num_of_people": "Group: 15 - 20 People",
+    "Rating": "9.5 Superb",
+    "Description": "Experience the rich history & landscapes",
+    "Price": 429
+  },
+
+  {
+    "id": 2,
+    "Destination": "Greece",
+    "Img": "./../../../../../src/assets/DestinationGrecce.jpeg",
+    "Alt": "Greece",
+    "Duration": "4 Days 3 Nights",
+    "Information": "Travel non lorem ac erat suscipit bibendum nulla facilisi. Sedeuter nunc volutpat miss sapien conseyen turpeutionyer masin libero sevenion vusetion viventa augue sit amet hendrerit vestibulum. Duisterione venenatis lacus gravida eros ut turpis interdum ornare.. Interdum et malesu they adamale fames ac anteipsu pimsine faucibus curabitur arcu site feugiat rana volutpat sollicitudin libero. Hotel non lorem acer suscipit bibendum vulla facilisi nedeuter nunc vousa molis sapien velet conseyer turpeutionyer masin libero sempe molis.",
+    "Num_of_tours": "2 Tours",
+    "Num_of_people": "Group: 5 - 10 People",
+    "Rating": "9.3 Superb",
+    "Description": "Experience the ancient history & beaches",
+    "Price": 879
+  },
+
+  {
+    "id": 3,
+    "Destination": "Tailend",
+    "Img": "./../../../../../src/assets/DestinationTailend.jpeg",
+    "Alt": "Tailend",
+    "Duration": "8 Days 7 Nights",
+    "Information": "Travel non lorem ac erat suscipit bibendum nulla facilisi. Sedeuter nunc volutpat miss sapien conseyen turpeutionyer masin libero sevenion vusetion viventa augue sit amet hendrerit vestibulum. Duisterione venenatis lacus gravida eros ut turpis interdum ornare.. Interdum et malesu they adamale fames ac anteipsu pimsine faucibus curabitur arcu site feugiat rana volutpat sollicitudin libero. Hotel non lorem acer suscipit bibendum vulla facilisi nedeuter nunc vousa molis sapien velet conseyer turpeutionyer masin libero sempe molis.",
+    "Num_of_tours": "7 Tours",
+    "Num_of_people": "Group: 25 - 30 People",
+    "Rating": "9.1 Superb",
+    "Description": "Explore the history and create memories",
+    "Price": 499
+  },
+
+  {
+    "id": 4,
+    "Destination": "Miami",
+    "Img": "./../../../../../src/assets/DestinationMaimi.jpeg",
+    "Alt": "Miami",
+    "Duration": "3 Days 2 Nights",
+    "Information": "Travel non lorem ac erat suscipit bibendum nulla facilisi. Sedeuter nunc volutpat miss sapien conseyen turpeutionyer masin libero sevenion vusetion viventa augue sit amet hendrerit vestibulum. Duisterione venenatis lacus gravida eros ut turpis interdum ornare.. Interdum et malesu they adamale fames ac anteipsu pimsine faucibus curabitur arcu site feugiat rana volutpat sollicitudin libero. Hotel non lorem acer suscipit bibendum vulla facilisi nedeuter nunc vousa molis sapien velet conseyer turpeutionyer masin libero sempe molis.",
+    "Num_of_tours": "4 Tours",
+    "Num_of_people": "Group: 5 - 10 People",
+    "Rating": "9.5 Superb",
+    "Description": "Here is filled with diverse cultures & cities",
+    "Price": 281
+  },
+
+  {
+    "id": 5,
+    "Destination": "Africa",
+    "Img": "./../../../../../src/assets/DestinationAfrica.jpg",
+    "Alt": "Africa",
+    "Duration": "11 Days 10 Nights",
+    "Information": "Travel non lorem ac erat suscipit bibendum nulla facilisi. Sedeuter nunc volutpat miss sapien conseyen turpeutionyer masin libero sevenion vusetion viventa augue sit amet hendrerit vestibulum. Duisterione venenatis lacus gravida eros ut turpis interdum ornare.. Interdum et malesu they adamale fames ac anteipsu pimsine faucibus curabitur arcu site feugiat rana volutpat sollicitudin libero. Hotel non lorem acer suscipit bibendum vulla facilisi nedeuter nunc vousa molis sapien velet conseyer turpeutionyer masin libero sempe molis.",
+    "Num_of_tours": "5 Tours",
+    "Num_of_people": "Group: 15 - 20 People",
+    "Rating": "9.6 Superb",
+    "Description": "Embark on a journey for your lifetime",
+    "Price": 899
+  },
+
+  {
+    "id": 6,
+    "Destination": "Spain",
+    "Img": "./../../../../../src/assets/DestinationSpain.jpeg",
+    "Alt": "Spain",
+    "Duration": "4 Days 3 Nights",
+    "Information": "Travel non lorem ac erat suscipit bibendum nulla facilisi. Sedeuter nunc volutpat miss sapien conseyen turpeutionyer masin libero sevenion vusetion viventa augue sit amet hendrerit vestibulum. Duisterione venenatis lacus gravida eros ut turpis interdum ornare.. Interdum et malesu they adamale fames ac anteipsu pimsine faucibus curabitur arcu site feugiat rana volutpat sollicitudin libero. Hotel non lorem acer suscipit bibendum vulla facilisi nedeuter nunc vousa molis sapien velet conseyer turpeutionyer masin libero sempe molis.",
+    "Num_of_tours": "6 Tours",
+    "Num_of_people": "Group: 5 - 10 People",
+    "Rating": "9.5 Superb",
+    "Description": "The top culture of the Land of the Rising Sun",
+    "Price": 987
+  }
+]

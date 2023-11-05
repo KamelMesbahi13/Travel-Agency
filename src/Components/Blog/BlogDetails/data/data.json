@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "Title": "A Seaside Reset in Laguna Beach",
+    "SubTitle": "HOTEL",
+    "Paragraph": "From the iconic to the unexpected, the city of San Francisco never ceases to surprise. Kick-start your effortlessly delivered Northern California holiday in the cosmopolitan hills of The City . Join your Travel Director and fellow travellers for a Welcome Reception at your hotel.",
+    "Img": "./../../../../src/assets/BlogOne.jpg",
+    "Alt": "Blog One",
+    "JournalistPic": "./../../../../src/assets/BlogJournaliste.jpg",
+    "Journalist": "BY modtel",
+    "Date": "April 6, 2022 10:20 am "
+  },
+
+  {
+    "id": 2,
+    "Title": "Tiptoe through the Tulips of Washington",
+    "SubTitle": "STAYS",
+    "Paragraph": "2021 will be a Different Skagit Valley Tulip Festival. We know there will be restrictions on the number of people who can visit our fields and gardens (and other retail establishments/restaurants/venues) based on COVID guidelines established by the state and county governments.",
+    "Img": "./../../../../src/assets/BlogTwo.jpg",
+    "Alt": "Blog Two",
+    "JournalistPic": "./../../../../src/assets/BlogJournaliste.jpg",
+    "Journalist": "BY modtel",
+    "Date": "June 16, 2023 12:22 am "
+  },
+
+  {
+    "id": 3,
+    "Title": "City Spotlight: Philadelphia",
+    "SubTitle": "STAYS",
+    "Paragraph": "This article is part of Earth Refuge’s Spotlight Series on Philadelphia. During the summer of 2021, cities across the United States (‘US’) have seen record breaking temperatures to an extent that scientists say would have been “virtually impossible” to reach without anthropogenic climate change. ",
+    "Img": "./../../../../src/assets/BlogThree.jpg",
+    "Alt": "Blog Three",
+    "JournalistPic": "./../../../../src/assets/BlogJournaliste.jpg",
+    "Journalist": "BY modtel",
+    "Date": "March 6, 2024 10:20 am "
+  },
+
+  {
+    "id": 4,
+    "Title": "The Castle on the Cliff: Majestic, Magic, Manoir",
+    "SubTitle": "BOOKING",
+    "Paragraph": "Thousands of migrants – of whom, many are children – suffer from deadly heat conditions at the US-Mexico border. As the effects of climate change worsen day by day, extreme weather conditions are causing a high risk of dehydration and death amongst migrants who try to enter the States.",
+    "Img": "./../../../../src/assets/BlogFour.jpg",
+    "Alt": "Blog Four",
+    "JournalistPic": "./../../../../src/assets/BlogJournaliste.jpg",
+    "Journalist": "BY modtel",
+    "Date": "April 6, 2022 10:20 am "
+  },
+
+  {
+    "id": 5,
+    "Title": "A Seaside Reset in Laguna Beach",
+    "SubTitle": "Hotel",
+    "Paragraph": "From the iconic to the unexpected, the city of San Francisco never ceases to surprise. Kick-start your effortlessly delivered Northern California holiday in the cosmopolitan hills of The City . Join your Travel Director and fellow travellers for a Welcome Reception at your hotel.",
+    "Img": "./../../../../src/assets/BlogFive.jpg",
+    "Alt": "Blog Five",
+    "JournalistPic": "./../../../../src/assets/BlogJournaliste.jpg",
+    "Journalist": "BY modtel",
+    "Date": "05 November 2024 10:20 am "
+  }
+]
