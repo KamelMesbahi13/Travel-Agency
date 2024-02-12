@@ -1,6 +1,6 @@
 import dailyData from "./Data/Data.json";
 import { Link } from "react-router-dom";
-import ImgFacebook from "../../../../src/assets/Facebook.png";
+import ImgFacebook from "../../../../src/assets/facebook.png";
 import ImgTwitter from "../../../../src/assets/Twitter.png";
 import ImgInstagram from "../../../../src/assets/Instagram.png";
 
