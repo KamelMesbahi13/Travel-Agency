@@ -36,7 +36,7 @@ export default function App() {
                     <Link
                       to="/destination"
                       target="_blank"
-                      className="px-4 py-1 font-semibold text-black duration-500 bg-white rounded-sm md:px-6 md:py-3 hover:bg-main-color hover:text-white"
+                      className="px-4 py-2 text-sm font-semibold text-black duration-500 bg-white rounded-sm md:px-6 md:py-3 hover:bg-main-color hover:text-white"
                     >
                       Learn More
                     </Link>
