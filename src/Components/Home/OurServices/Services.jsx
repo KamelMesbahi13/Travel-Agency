@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 import ImgFacebook from "../../../../src/assets/Facebook.png";
 import ImgTwitter from "../../../../src/assets/Twitter.png";
 import ImgInstagram from "../../../../src/assets/Instagram.png";
-import "react-lazy-load-image-component/src/effects/blur.css";
 
 const DailyTrips = () => {
   const daily_data = dailyData.map(({ id, title, image, alt, sub_title }) => {
