@@ -2,7 +2,7 @@ import { lazy } from "react";
 const Header = lazy(() => import("./Header/Header"));
 const Testimonials = lazy(() => import("../Home/Testimonials/Testimonials"));
 const Team = lazy(() => import("./Team/Team"));
-const AboutTeam = lazy(() => import("./aboutTeam/aboutTeam"));
+const AboutTeam = lazy(() => import("./AboutTeam/AboutTeam"));
 
 const AboutUs = () => {
   return (
