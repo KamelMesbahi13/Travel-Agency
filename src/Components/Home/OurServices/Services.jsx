@@ -52,7 +52,7 @@ const DailyTrips = () => {
                 repellat deserunt porro asperiores deleniti rem ducimus! In
                 officiis quisquam reprehenderit vero laudantium repellendus non,
                 porro necessitatibus alias repellat! Aut obcaecati, doloremque
-                dolores aliquam ex eveniet voluptatem eaque deserunt!
+                dolores aliquam ex eveniet voluptatem eaque deserunt!!
               </p>
               <div>
                 <div className="flex w-24 mt-12 mb-8 lg:mb-0">
