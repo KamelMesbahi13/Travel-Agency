@@ -212,7 +212,7 @@ const BlogDetails = () => {
                           />
                         </div>
                         <div>
-                          <button className="w-11/12 py-2 mt-8 text-black bg-white ">
+                          <button className="w-full py-2 mt-8 text-black duration-500 bg-white bg-opacity-80 hover:bg-opacity-100">
                             Submit
                           </button>
                         </div>
