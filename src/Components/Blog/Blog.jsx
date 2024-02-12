@@ -1,7 +1,6 @@
 import { lazy } from "react";
-
-const BlogDetail = lazy(() => import("./BlogDetail/BlogDetail"));
 const Header = lazy(() => import("./Header/Header"));
+const BlogDetail = lazy(() => import("./BlogDetail/BlogDetail"));
 
 const Blog = () => {
   return (
