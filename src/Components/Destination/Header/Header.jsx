@@ -1,5 +1,4 @@
 import Img from "./../../../../src/assets/DestinationBack.jpg";
-import "react-lazy-load-image-component/src/effects/blur.css";
 
 const Header = () => {
   return (

@@ -1,5 +1,4 @@
 import { lazy } from "react";
-
 const Header = lazy(() => import("./Header/Header"));
 const Offers = lazy(() => import("./Offers/Offers"));
 
