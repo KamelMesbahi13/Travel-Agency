@@ -296,7 +296,7 @@ const DestinationDetails = () => {
                               className="mt-2 border-b-2 outline-none border-main-color bg-[#eee] p-1 w-full"
                               name="message"
                               id="message"
-                              placeholder="Why Do You Want To Come ??"
+                              placeholder="Why Do You Want To Come ?"
                               cols="30"
                               rows="10"
                             ></textarea>

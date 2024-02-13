@@ -21,7 +21,7 @@ const Header = () => {
               dolorem ab. Asperiores necessitatibus amet natus distinctio
               aliquid? Omnis. maxime doloremque saepe nihil quae unde atque
               quasi laboriosam veritatis, exercitationem magni, illo harum
-              molestiae velit? Labore voluptas tenetur, earum iusto excepturi
+              molestiae velit? Labore voluptas tenetur. earum iusto excepturi
               sequi quas expedita dolorem ab. Asperiores necessitatibus amet
               natus distinctio aliquid? Omnis.maxime doloremque saepe nihil quae
               unde atque quasi laboriosam veritatis, exercitationem magni, illo
