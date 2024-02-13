@@ -2,7 +2,6 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import { Link } from "react-router-dom";
-import "react-lazy-load-image-component/src/effects/blur.css";
 
 const BlogDetail = () => {
   const Url = "http://localhost:8000/blog";
@@ -57,7 +56,7 @@ const BlogDetail = () => {
                       <img
                         className="w-12 rounded-full md:w-11"
                         src={prop.JournalistPic}
-                        alt="Modtel"
+                        alt="Motel"
                       />
                       <h6 className="mx-2 my-1 md:my-0">{prop.Journalist}</h6>
                       <p className="text-sm md:text-base">{prop.Date}</p>
