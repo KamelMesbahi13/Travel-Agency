@@ -12,7 +12,7 @@ const Header = () => {
               className="h-[30vh] md:h-auto"
               effect="blur"
               src={Img}
-              alt="Blog Background"
+              alt="Blog-Background"
             />
             <h1 className="absolute font-bold text-white -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2">
               Blog

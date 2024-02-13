@@ -13,7 +13,7 @@ const AboutTeam = () => {
               <h1 className="mb-4 font-bold">About Team</h1>
               <p className="w-full md:w-3/4">
                 Quickly incentivize impactful action items before tactical
-                collaboration and idea-sharing. Monotonically engage
+                collaboration and idea-sharing, Monotonically engage
                 market-driven intellectual capital through wireless
                 opportunities. Progressively network performance based services
                 for functionalized testing procedures.
