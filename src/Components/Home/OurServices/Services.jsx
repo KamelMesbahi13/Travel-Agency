@@ -61,7 +61,6 @@ const DailyTrips = () => {
                     <img src={ImgFacebook} alt="Facebook" />{" "}
                   </Link>
                   <Link className="mx-2">
-                    {" "}
                     <img src={ImgInstagram} alt="Instagram" />
                   </Link>
                   <Link>
