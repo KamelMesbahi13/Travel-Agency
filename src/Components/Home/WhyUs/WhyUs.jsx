@@ -37,7 +37,7 @@ const WhyUs = () => {
       <div className="my-20">
         <div>
           <div className="text-center">
-            <h1 className="font-bold">Why travel with Us?</h1>
+            <h1 className="font-bold">Why travel with Us??</h1>
           </div>
           <div className="text-center">
             {status ? (
