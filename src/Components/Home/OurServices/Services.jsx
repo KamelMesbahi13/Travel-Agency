@@ -57,7 +57,6 @@ const DailyTrips = () => {
               <div>
                 <div className="flex w-24 mt-12 mb-8 lg:mb-0">
                   <Link>
-                    {" "}
                     <img src={ImgFacebook} alt="Facebook" />{" "}
                   </Link>
                   <Link className="mx-2">
