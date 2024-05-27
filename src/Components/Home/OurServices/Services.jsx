@@ -32,7 +32,7 @@ const DailyTrips = () => {
               <h1 className="mb-4 font-bold">Top Daily Trips</h1>
               <p className="font-light">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem,
-                voluptates!
+                voluptates!!
               </p>
             </div>
             <div className="lg:mr-8">
